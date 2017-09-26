@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cv on Tonći Kokan</title>
+    <link>tkokan.github.io/cv/</link>
+    <description>Recent content in Cv on Tonći Kokan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 14:39:31 +0200</lastBuildDate>
+    
+	<atom:link href="tkokan.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>tkokan.github.io/cv/cv/</link>
+      <pubDate>Tue, 26 Sep 2017 14:39:31 +0200</pubDate>
+      
+      <guid>tkokan.github.io/cv/cv/</guid>
+      <description>The page is under construction.</description>
+    </item>
+    
+  </channel>
+</rss>

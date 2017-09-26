@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tonći Kokan</title>
+    <link>tkokan.github.io/</link>
+    <description>Recent content on Tonći Kokan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 14:39:31 +0200</lastBuildDate>
+    
+	<atom:link href="tkokan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>tkokan.github.io/cv/cv/</link>
+      <pubDate>Tue, 26 Sep 2017 14:39:31 +0200</pubDate>
+      
+      <guid>tkokan.github.io/cv/cv/</guid>
+      <description>The page is under construction.</description>
+    </item>
+    
+    <item>
+      <title>Second sample</title>
+      <link>tkokan.github.io/projects/second_sample_project/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>tkokan.github.io/projects/second_sample_project/</guid>
+      <description>This is the second sample project</description>
+    </item>
+    
+    <item>
+      <title>First sample</title>
+      <link>tkokan.github.io/projects/first_sample_project/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>tkokan.github.io/projects/first_sample_project/</guid>
+      <description>This is the first sample project.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>tkokan.github.io/projects/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>tkokan.github.io/projects/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+  </channel>
+</rss>
