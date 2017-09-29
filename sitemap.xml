@@ -3,63 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>tkokan.github.io/cv/cv/</loc>
+    <loc>https://tkokan.github.io/cv/cv/</loc>
     <lastmod>2017-09-26T14:39:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>tkokan.github.io/projects/second_sample_project/</loc>
+    <loc>https://tkokan.github.io/projects/ranger-vizualizations/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>tkokan.github.io/projects/first_sample_project/</loc>
+    <loc>https://tkokan.github.io/projects/ranger/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>tkokan.github.io/projects/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>tkokan.github.io/categories/</loc>
+    <loc>https://tkokan.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>tkokan.github.io/math/</loc>
+    <loc>https://tkokan.github.io/math/</loc>
   </url>
   
   <url>
-    <loc>tkokan.github.io/personal/</loc>
+    <loc>https://tkokan.github.io/personal/</loc>
   </url>
   
   <url>
-    <loc>tkokan.github.io/cv/</loc>
+    <loc>https://tkokan.github.io/cv/</loc>
     <lastmod>2017-09-26T14:39:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>tkokan.github.io/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>tkokan.github.io/projects/</loc>
+    <loc>https://tkokan.github.io/projects/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>tkokan.github.io/tags/</loc>
+    <loc>https://tkokan.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>tkokan.github.io/</loc>
+    <loc>https://tkokan.github.io/</loc>
     <lastmod>2017-09-26T14:39:31+02:00</lastmod>
     <priority>0</priority>
   </url>
